@@ -33,7 +33,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo:
    ```sh
-   git clone 
+   git clone https://github.com/nareshis21/sum.git
    ```
 2. Navigate to the project directory:
    ```sh
